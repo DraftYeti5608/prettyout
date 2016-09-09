@@ -1,11 +1,8 @@
 {
   "name": "prettyout",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make output prettier and more readable",
   "main": "index.js",
-  "scripts": {
-    "test": "node test.js"
-  },
   "repository": {
     "type": "git",
     "url": "tba"
